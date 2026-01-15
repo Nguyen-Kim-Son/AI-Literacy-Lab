@@ -32,8 +32,9 @@ Vinh T. Nguyen, PhD: Dr. Vinh is currently a lecturer at the Faculty of Informat
 11. **[Conference]** Nguyen, Van-Viet, et al. _"Phi-3-Code: Fine Tuning a Small Size Language Model for Coding Generation."_ International Conference on Intelligence of Things(ICIT). Singapore: Springer Nature Singapore, 2025.**(in progress)**
 12. **[Conference]** Nguyen, Van-Viet, et al. _"Multimodal Validation in UML Synthesis: A Dual-Case Study on Sequence and Class Diagram Generation Pipelines."_ International Conference on Engineering Research and Applications(ICERA). Singapore: Springer Nature Singapore, 2025.**(in progress)**
 ### 3. Nguyen Kim Son (started from June 2024)
-1. Paper (published)
-2. Paper (in progress)
+1. **[Conference]** Kim-Son Nguyen, et al. _"Application of Large Language Models in Geographic Map Analysis and Visualization."_ Advances in Information and Communication Technology. ICTA 2024s (ICTA2024). Springer Nature, 2025..**(Published)**
+2. 
+3. Paper (in progress)
 ### 4. Luong Thi Minh Hue (started from June 2024)
 1. Paper (published)
 2. Paper (in progress)
